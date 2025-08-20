@@ -20,7 +20,7 @@ setuptools.setup(
     author='Dustin Oprea',
     author_email='myselfasunder@gmail.com',
     url='https://github.com/dsoprea/PyInotify',
-    license='GPL 2',
+    license='GPL-2.0-only',
     packages=setuptools.find_packages(exclude=['tests']),
     include_package_data=True,
     zip_safe=False,
